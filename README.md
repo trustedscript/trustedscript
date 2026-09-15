@@ -1,5 +1,5 @@
 <picture>
-  <img src="assets/README-quartet-01.svg" alt="README-quartet-svg">
+  <img src="assets/readme-quartet-01.svg" alt="README-quartet-svg">
 </picture>
 
 # 💫 About Me:
@@ -30,5 +30,5 @@
 
 
 <picture>
-  <img src="assets/GITHUB_IS_MAGIC" alt="GITHUB_IS_MAGIC">
+  <img src="assets/github_is_magic.svg" alt="GITHUB_IS_MAGIC">
 </picture>
