@@ -1,3 +1,7 @@
+<picture>
+  <img src="assets/README-quartet-01.svg" alt="README-quartet-svg">
+</picture>
+
 # 💫 About Me:
 🔭 I’m currently working on a team-based school project, recreating a predefined Figma design using Jira and VS Code. As the team’s tester, I validate features, identify issues, and ensure the final product meets the requirements.<br>👯 I’m looking to collaborate on web development, QA testing, and student projects<br>🤝 I’m looking for help with improving my testing and software development skills<br>🌱 I’m currently learning JavaScript, Supabase, automated testing, Git workflows, Vercel<br>💬 Ask me about software testing, bug reporting, Figma, Jira, and web development<br>⚡ Fun fact  I enjoy finding bugs before users do
 
@@ -24,4 +28,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=trustedscript&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <img src="assets/GITHUB_IS_MAGIC" alt="GITHUB_IS_MAGIC">
+</picture>
